@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Biloliddin%20Akramov&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Dasturchi%20%7C%20AI-Muhandis&descAlignY=60&descSize=20" width="100%" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Biloliddin%20Akramov&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Dasturchi%20%7C%20Veb-Interfeys%20Muhandisi&descAlignY=60&descSize=20" width="100%" alt="Banner"/>
 </p>
 
-<h2 align="center">Assalomu alaykum, men Biloliddin Akramovman 👋</h2>
+<h2 align="center">Biloliddin Akramov — Frontend Dasturchi</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Dasturchi+va+UI%2FUX+Ishqibozi;React.js+va+Zamonaviy+JavaScript+Mutaxassisi;AI+Texnologiyalari+Bilan+Tezkor+Dasturlash;Zamonaviy+va+Interaktiv+Veb-Ilovalar+Yaratuvchisi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Dasturchi+va+UI%2FUX+Muhandisi;React.js+va+Zamonaviy+JavaScript+Mutaxassisi;AI+Texnologiyalari+Asosida+Dasturiy+Yechimlar;Zamonaviy+va+Funktsional+Veb-Ilovalar+Arxitekturasi" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,18 +15,18 @@
 
 ---
 
-### 🧑‍💻 Men haqimda
+### 🧑‍💻 Umumiy ma'lumot
 
-Men **HTML, CSS, JavaScript va React.js** yordamida zamonaviy, moslashuvchan (responsive) va foydalanuvchilar uchun qulay veb-ilovalar yaratishga ixtisoslashgan Frontend dasturchiman. Toza kodni tezroq yozish, murakkab UI muammolarni hal qilish va yuqori sifatli raqamli mahsulotlar yaratishda **Sun'iy Intellekt (AI qurollari va Prompt Engineering)** imkoniyatlaridan faol foydalanaman.
+Men **HTML5, CSS3, JavaScript (ES6+) va React.js** texnologiyalari asosida zamonaviy, moslashuvchan (responsive) hamda yuqori samaradorlikka ega veb-ilovalar ishlab chiqishga ixtisoslashgan Frontend dasturchiman. Dasturiy ta'minot yaratish jarayonini optimallashtirish, toza kod arxitekturasini shakllantirish va murakkab texnik yechimlarni tezkor amalga oshirishda **Sun'iy Intellekt (AI vositalari va Prompt Engineering)** texnologiyalaridan samarali foydalanaman.
 
-- 🔭 Hozirda **AlphaCore** jamoasida **LifeEngine, MasterGroup, Livo va UniPath** loyihalari ustida ishlayapman
-- 🌱 Hozirda **React.js ekotizimi, Vue.js va zamonaviy Frontend arxitekturasi** bo'yicha bilimlarimni chuqurlashtiryapman
-- 🤖 Ish jarayonini **AI qurollari, Gemini, ChatGPT va Prompt Engineering** yordamida tezlashtiraman
-- 💬 Menga **HTML5, CSS3, JavaScript (ES6+), React.js, Vue.js, Responsive dizayn** bo'yicha savol berishingiz mumkin
-- 📍 Manzil: **Farg'ona, O'zbekiston**
-- ⚡ Qiziqarli fakt: **Bir qator kod yozishdan oldin butun interfeys dizaynini xayolimda gavdalantirib olaman**
+- 🔭 **Joriy faoliyat:** **AlphaCore** jamoasida **LifeEngine, MasterGroup, Livo va UniPath** loyihalari ustida amaliy ish olib bormoqdaman
+- 🌱 **Kasbiy rivojlanish:** **React.js ekotizimi, Vue.js va zamonaviy Frontend arxitekturasi** bo'yicha malakamni chuqurlashtirmoqdaman
+- 🤖 **Texnologik ustunlik:** Dasturlash jarayonini **AI tizimlari, Gemini, ChatGPT va Prompt Engineering** yordamida optimallashtiraman
+- 💬 **Asosiy yo'nalishlar:** **HTML5, CSS3, JavaScript (ES6+), React.js, Vue.js, UI/UX va Responsive dizayn**
+- 📍 **Joylashuv:** Farg'ona, O'zbekiston
+- ⚡ **Ish tamoyili:** Dasturlashga kirishishdan avval tizim arxitekturasi va foydalanuvchi interfeysi mantiqini to'liq loyihalashtirish
 
-🔹 **Frontend Asoslari:** Semantik HTML5 va zamonaviy CSS3 (Flexbox, Grid, Animatsiyalar) yordamida har bir pikseligacha aniq va moslashuvchan dizaynlar yaratish 🔹 **JavaScript va Freymvorklar:** JavaScript (ES6+), React.js va Vue.js orqali dinamik Single Page Applications (SPA) ishlab chiqish 🔹 **AI Bilan Ishlash:** Kod yozish, xatolarni topish (debugging) va UI/UX prototiplashni tezlashtirish uchun ilg'or Prompt Engineering va AI vositalaridan foydalanish 🔹 **API va Integratsiya:** Frontend interfeyslarni RESTful API, Fetch va JSON bilan bog'lash 🔹 **Qurollar va Ish Jarayoni:** Git, GitHub, Vite va VS Code yordamida kodni samarali boshqarish va jamoaviy ishlash.
+🔹 **Frontend Asoslari:** Semantik HTML5 va zamonaviy CSS3 (Flexbox, Grid, Animatsiyalar) yordamida aniq va moslashuvchan interfeyslar yaratish 🔹 **JavaScript va Freymvorklar:** JavaScript (ES6+), React.js va Vue.js orqali dinamik Single Page Applications (SPA) ishlab chiqish 🔹 **AI Integratsiyasi:** Kod sifatini oshirish, xatoliklarni tahlil qilish (debugging) va UI/UX prototiplashda ilg'or Prompt Engineering hamda AI vositalarini qo'llash 🔹 **API va Ma'lumotlar:** Frontend ilovalarni RESTful API, Fetch va JSON bilan integratsiya qilish 🔹 **Ish Jarayoni:** Git, GitHub, Vite va VS Code yordamida kod bazasini samarali boshqarish va jamoaviy ishlash.
 
 ---
 
@@ -42,7 +42,7 @@ Men **HTML, CSS, JavaScript va React.js** yordamida zamonaviy, moslashuvchan (re
 
 <div align="center">
 
-#### 💻 Dasturlash Tillari va Frontend Asoslari
+#### 💻 Dasturlash Tillari va Asosiy Texnologiyalar
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -53,7 +53,7 @@ Men **HTML, CSS, JavaScript va React.js** yordamida zamonaviy, moslashuvchan (re
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-#### 🤖 AI va Dasturlash Qurollari
+#### 🤖 AI va Dasturlash Vositalari
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/AI%20%26%20Prompt%20Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -66,21 +66,21 @@ Men **HTML, CSS, JavaScript va React.js** yordamida zamonaviy, moslashuvchan (re
 
 ---
 
-### 🧠 Asosiy Bilim Yo'nalishlari
+### 🧠 Asosiy Mutaxassislik Yo'nalishlari
 
 | Yo'nalish | Texnologiyalar va Tushunchalar |
 | :--- | :--- |
-| **HTML va CSS Mahorati** | Semantik HTML5, CSS3, Flexbox, CSS Grid, Maxsus Animatsiyalar va O'tishlar (Transitions), Kross-brauzer moslashuvchanligi, Mobile-First Responsive Dizayn |
+| **HTML va CSS Arxitekturasi** | Semantik HTML5, CSS3, Flexbox, CSS Grid, Animatsiyalar va O'tishlar (Transitions), Kross-brauzer moslashuvchanligi, Mobile-First Responsive Dizayn |
 | **JavaScript (ES6+)** | DOM Manipulyatsiyasi, Hodisalar bilan ishlash (Events), Async/Await, Promises, Fetch API, ES6 Modullari, LocalStorage va SessionStorage, Massiv/Obyekt metodlari |
 | **React va Vue Ekotizimi** | React.js (Komponentlar, Props, useState, useEffect, Context API, React Router), Vue.js asoslari, Single Page Applications (SPA), State Management |
-| **AI va Prompt Engineering** | AI yordamida dasturlash, Ilg'or Prompt Engineering, AI orqali kodni optimallashtirish va xatolarni topish, Tezkor UI/UX prototiplash |
-| **Qurollar va Ish Jarayoni** | Git, GitHub, Vite, NPM, VS Code, Figma (UI dizayndan kodga o'tkazish), Chrome DevTools, Toza va o'qishga qulay kod arxitekturasi |
+| **AI va Prompt Engineering** | AI yordamida dasturlash jarayonini tezlashtirish, Ilg'or Prompt Engineering, Kodni optimallashtirish va tahlil qilish, UI/UX prototiplash |
+| **Qurollar va Ish Jarayoni** | Git, GitHub, Vite, NPM, VS Code, Figma (UI dizayndan kodga o'tkazish), Chrome DevTools, Clean Code tamoyillari |
 
 ---
 
 ### 🎯 Asosiy Loyihalar (Featured Projects)
 
-- 🚀 **[LifeEngine](https://github.com/BiloliddinAkramov/Lifeengine)** — Zamonaviy frontend texnologiyalari asosida qurilgan shaxsiy hayot rejalashtiruvchisi, odatlar trekeri va samaradorlikni boshqarish veb-ilovasi.
-- 🏢 **MasterGroup** — Zamonaviy, moslashuvchan foydalanuvchi interfeysi va qulay interaktiv tajribaga ega korporativ veb-platforma.
-- ⚡ **Livo** — Toza UI/UX arxitekturasi, yuqori ishlash tezligi va qulay interfeysga yo'naltirilgan zamonaviy veb-loyiha.
-- 🎓 **UniPath** — O'quvchilar va abituriyentlarga universitetlarni oson topish hamda hujjat topshirishga yordam beruvchi onlayn konsalting platformasi.
+- 🚀 **[LifeEngine](https://github.com/BiloliddinAkramov/Lifeengine)** — Zamonaviy frontend texnologiyalari asosida ishlab chiqilgan shaxsiy rejalashtirish, intizom monitoringi va samaradorlikni boshqarish veb-platformasi.
+- 🏢 **MasterGroup** — Moslashuvchan foydalanuvchi interfeysi va zamonaviy veb-standartlar asosida qurilgan korporativ axborot tizimi.
+- ⚡ **Livo** — Yuqori ishlash tezligi, toza UI/UX arxitekturasi va qulay foydalanuvchi tajribasiga yo'naltirilgan zamonaviy veb-loyiha.
+- 🎓 **UniPath** — Abituriyentlar va talabalarga oliy ta'lim muassasalarini izlash hamda hujjat topshirish jarayonini osonlashtiruvchi onlayn konsalting platformasi.
