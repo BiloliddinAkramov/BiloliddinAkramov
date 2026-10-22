@@ -1,86 +1,91 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Biloliddin%20Akramov&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Dasturchi%20%7C%20Veb-Interfeys%20Muhandisi&descAlignY=60&descSize=20" width="100%" alt="Banner"/>
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0369a1&height=240&section=header&text=Biloliddin%20Akramov&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%7C%20AI%20Builder%20%7C%20Startup%20Founder&descAlignY=58&descSize=17" width="100%" alt="Biloliddin Akramov banner"/>
 </p>
 
-<h2 align="center">Biloliddin Akramov — Frontend Dasturchi</h2>
+<h1 align="center">biloliddin akramov</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Dasturchi+va+UI%2FUX+Muhandisi;React.js+va+Zamonaviy+JavaScript+Mutaxassisi;AI+Texnologiyalari+Asosida+Dasturiy+Yechimlar;Zamonaviy+va+Funktsional+Veb-Ilovalar+Arxitekturasi" alt="Typing SVG" />
-</p>
+<h3 align="center">building digital products that solve real problems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BiloliddinAkramov&label=Profilni%20ko'rishlar&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/BiloliddinAkramov?label=Obunachilar&style=flat&color=0e75b6" alt="Followers" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=frontend+developer;react.js+%26+modern+javascript;ai-powered+product+builder;turning+ideas+into+real+products" alt="Typing animation"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/BiloliddinAkramov">
+    <img src="https://img.shields.io/badge/GitHub-BiloliddinAkramov-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=BiloliddinAkramov&label=PROFILE+VIEWS&color=0284c7&style=for-the-badge" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <i>from an idea to a working product — one project at a time.</i>
 </p>
 
 ---
 
-### 🧑‍💻 Umumiy ma'lumot
+## 👨‍💻 about me
 
-Men **HTML5, CSS3, JavaScript (ES6+) va React.js** texnologiyalari asosida zamonaviy, moslashuvchan (responsive) hamda yuqori samaradorlikka ega veb-ilovalar ishlab chiqishga ixtisoslashgan Frontend dasturchiman. Dasturiy ta'minot yaratish jarayonini optimallashtirish, toza kod arxitekturasini shakllantirish va murakkab texnik yechimlarni tezkor amalga oshirishda **Sun'iy Intellekt (AI vositalari va Prompt Engineering)** texnologiyalaridan samarali foydalanaman.
+i'm a frontend developer from **fergana, uzbekistan**, interested in building modern web applications, AI-powered tools, and digital products that solve real-world problems.
 
-- 🔭 **Joriy faoliyat:** **AlphaCore** jamoasida **LifeEngine, MasterGroup, Livo va UniPath** loyihalari ustida amaliy ish olib bormoqdaman
-- 🌱 **Kasbiy rivojlanish:** **React.js ekotizimi, Vue.js va zamonaviy Frontend arxitekturasi** bo'yicha malakamni chuqurlashtirmoqdaman
-- 🤖 **Texnologik ustunlik:** Dasturlash jarayonini **AI tizimlari, Gemini, ChatGPT va Prompt Engineering** yordamida optimallashtiraman
-- 💬 **Asosiy yo'nalishlar:** **HTML5, CSS3, JavaScript (ES6+), React.js, Vue.js, UI/UX va Responsive dizayn**
-- 📍 **Joylashuv:** Farg'ona, O'zbekiston
-- ⚡ **Ish tamoyili:** Dasturlashga kirishishdan avval tizim arxitekturasi va foydalanuvchi interfeysi mantiqini to'liq loyihalashtirish
+i focus on creating clean interfaces, responsive experiences, and functional products while using AI tools to accelerate development and explore new ideas.
 
-🔹 **Frontend Asoslari:** Semantik HTML5 va zamonaviy CSS3 (Flexbox, Grid, Animatsiyalar) yordamida aniq va moslashuvchan interfeyslar yaratish 🔹 **JavaScript va Freymvorklar:** JavaScript (ES6+), React.js va Vue.js orqali dinamik Single Page Applications (SPA) ishlab chiqish 🔹 **AI Integratsiyasi:** Kod sifatini oshirish, xatoliklarni tahlil qilish (debugging) va UI/UX prototiplashda ilg'or Prompt Engineering hamda AI vositalarini qo'llash 🔹 **API va Ma'lumotlar:** Frontend ilovalarni RESTful API, Fetch va JSON bilan integratsiya qilish 🔹 **Ish Jarayoni:** Git, GitHub, Vite va VS Code yordamida kod bazasini samarali boshqarish va jamoaviy ishlash.
+- 🚀 **currently building:** LifeEngine, MasterGroup, Livo and UniPath
+- 💻 **core stack:** HTML5, CSS3, JavaScript and React.js
+- 🤖 **AI tools:** Google Gemini, ChatGPT and AI-assisted development
+- 🎯 **interests:** frontend engineering, UI/UX, SaaS and startups
+- 🌍 **location:** Fergana, Uzbekistan
+- ⚡ **mindset:** build, test, improve, repeat
 
 ---
 
-### 🚀 Texnologiyalar va Qurollar
+## 🛠️ tech stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,git,github,vscode,vite,npm,figma&perline=6" alt="Tech Icons" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode,vite,npm,figma&perline=6" alt="Technology stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Responsive%20Design-0F766E?style=flat-square" alt="Responsive design"/>
+  <img src="https://img.shields.io/badge/REST%20API-7C3AED?style=flat-square" alt="REST API"/>
 </p>
 
 ---
 
-### 🛠️ Texnologik Stek (Tech Stack)
+## 🚀 featured projects
 
-<div align="center">
+### ⚡ LifeEngine
+A productivity platform focused on personal planning, discipline tracking, and building better daily habits.
 
-#### 💻 Dasturlash Tillari va Asosiy Texnologiyalar
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+[**view repository →**](https://github.com/BiloliddinAkramov/Lifeengine)
 
-#### 🧰 Freymvorklar va Kutubxonalar
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+### 🏢 MasterGroup
+A digital platform focused on organizing workflows and delivering a practical, user-friendly interface.
 
-#### 🤖 AI va Dasturlash Vositalari
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/AI%20%26%20Prompt%20Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🌐 Livo
+A modern digital product designed around usability, clean UI/UX, and practical solutions.
 
-</div>
+### 🎓 UniPath
+An education consulting platform designed to help students explore universities, compare opportunities, and navigate the application process.
 
 ---
 
-### 🧠 Asosiy Mutaxassislik Yo'nalishlari
+## 🧠 what i'm focused on
 
-| Yo'nalish | Texnologiyalar va Tushunchalar |
-| :--- | :--- |
-| **HTML va CSS Arxitekturasi** | Semantik HTML5, CSS3, Flexbox, CSS Grid, Animatsiyalar va O'tishlar (Transitions), Kross-brauzer moslashuvchanligi, Mobile-First Responsive Dizayn |
-| **JavaScript (ES6+)** | DOM Manipulyatsiyasi, Hodisalar bilan ishlash (Events), Async/Await, Promises, Fetch API, ES6 Modullari, LocalStorage va SessionStorage, Massiv/Obyekt metodlari |
-| **React va Vue Ekotizimi** | React.js (Komponentlar, Props, useState, useEffect, Context API, React Router), Vue.js asoslari, Single Page Applications (SPA), State Management |
-| **AI va Prompt Engineering** | AI yordamida dasturlash jarayonini tezlashtirish, Ilg'or Prompt Engineering, Kodni optimallashtirish va tahlil qilish, UI/UX prototiplash |
-| **Qurollar va Ish Jarayoni** | Git, GitHub, Vite, NPM, VS Code, Figma (UI dizayndan kodga o'tkazish), Chrome DevTools, Clean Code tamoyillari |
+- building responsive and accessible web interfaces
+- developing reusable React components
+- improving JavaScript and TypeScript skills
+- integrating APIs and AI-powered features
+- turning product ideas into usable applications
+- learning through real-world projects
 
 ---
 
-### 🎯 Asosiy Loyihalar (Featured Projects)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,50:0f172a,100:020617&height=100&section=footer" width="100%" alt="Footer banner"/>
+</p>
 
-- 🚀 **[LifeEngine](https://github.com/BiloliddinAkramov/Lifeengine)** — Zamonaviy frontend texnologiyalari asosida ishlab chiqilgan shaxsiy rejalashtirish, intizom monitoringi va samaradorlikni boshqarish veb-platformasi.
-- 🏢 **MasterGroup** — Moslashuvchan foydalanuvchi interfeysi va zamonaviy veb-standartlar asosida qurilgan korporativ axborot tizimi.
-- ⚡ **Livo** — Yuqori ishlash tezligi, toza UI/UX arxitekturasi va qulay foydalanuvchi tajribasiga yo'naltirilgan zamonaviy veb-loyiha.
-- 🎓 **UniPath** — Abituriyentlar va talabalarga oliy ta'lim muassasalarini izlash hamda hujjat topshirish jarayonini osonlashtiruvchi onlayn konsalting platformasi.
+<p align="center">
+  <b>build with purpose. learn continuously. ship consistently.</b>
+</p>
